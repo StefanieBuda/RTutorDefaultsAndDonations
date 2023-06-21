@@ -1,0 +1,11 @@
+Package: RTutorDefaultsAndDonations
+Type: Package
+Title: RTutor problem set DefaultsAndDonations
+Version: 0.1
+Date: 2023-21-06
+Author: Stefanie Buda
+Maintainer: Stefanie Buda <stefanie.buda@uni-ulm.de>
+Description: RTutor problem set DefaultsAndDonations
+License: Problem set content: Creative Commons (CC BY-NC)
+	 Package code: GPL >= 2.0
+Depends: RTutor, haven, dplyr, ggplot2, kableExtra, forcats, tidyr, gridExtra, maxLik, pracma
